@@ -1,5 +1,5 @@
 function Home(){
-    return <h1> Jesus é o caminho a verdade e a vida. Eu amo jesus</h1>
+    return <h1> Eu te amo princesa, obrigado por me apoiar, estou traalhando no meu projeto</h1>
 
 }
 
