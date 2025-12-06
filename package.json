@@ -9,7 +9,6 @@
     "lint:fix": "prettier --write .",
     "test": "jest",
     "test:watch": "jest --watch"
-
   },
   "author": "",
   "license": "MIT",
