@@ -1,7 +1,7 @@
 services:
   databse:
-    image: 'postgres:16.11-alpine3.23'
+    image: "postgres:16.11-alpine3.23"
     environment:
-        POSTGRES_PASSWORD: 'local_password'
+      POSTGRES_PASSWORD: "local_password"
     ports:
       - "5432:5432"
